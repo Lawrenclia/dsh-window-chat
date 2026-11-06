@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Cross-window chat",
+    "description": "Connect the current conversation window with another conversation window: relay a message by hand, or let the two windows talk automatically for a bounded number of rounds."
+  }
+}
