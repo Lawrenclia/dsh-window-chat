@@ -12,6 +12,14 @@
     "session"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lawrenclia/dsh-window-chat.git"
+  },
+  "homepage": "https://github.com/Lawrenclia/dsh-window-chat#readme",
+  "bugs": {
+    "url": "https://github.com/Lawrenclia/dsh-window-chat/issues"
+  },
   "exports": {
     ".": "./index.js",
     "./client": "./client.js",
